@@ -1,0 +1,23 @@
+{
+  "name": "virtual-dom-js",
+  "version": "1.0.0",
+  "description": "A simple virtual dom package for use in a js framework",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "ss"
+  },
+  "keywords": [
+    "virtual",
+    "dom",
+    "virtualDom",
+    "virtual",
+    "dom",
+    "js"
+  ],
+  "author": "Mihai Blebea",
+  "license": "MIT"
+}
